@@ -1,6 +1,6 @@
 
 
-with open('day1_input.txt','rw') as f:
+with open('day1_input.txt', 'rw') as f:
     inputs = [int(i) for i in f]
 
 for input1 in inputs:
